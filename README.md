@@ -1,2 +1,6 @@
 # ckcapital
-nothing here :)))))
+#Author: SarinToxic
+ Hey, lemme see your nail!
+ Ewwwww, your nail so urly!!!
+ :)))))
+
