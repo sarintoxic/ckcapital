@@ -37,10 +37,10 @@ html {
 }
 
 .main-navbar-nav .navbar-brand {
-  font-size: 38px;
-  letter-spacing: 4px;
+  font-size: 26px;
+  letter-spacing: 1px;
   position: relative;
-  top: -5px;
+  top: 0px;
   font-weight: 500;
 }
 
