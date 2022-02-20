@@ -1138,7 +1138,8 @@ html {
 .container-team {
   background: #fff;
   margin-top: 50px;
-
+  height: 400px;
+overflow: auto;
 }
 .our-team{
   border-radius: 15px;
@@ -1164,6 +1165,7 @@ html {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  border: solid #648cff 7px;
 }
 .our-team .title{
   font-weight: 600;
