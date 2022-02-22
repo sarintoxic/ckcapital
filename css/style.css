@@ -770,7 +770,7 @@ overflow: auto;
 /* ==========================================================================================================
                                        RESPONSIVE STYLING
   ========================================================================================================== */
-  @media screen and (max-width: 1400px) {
+  /* @media screen and (max-width: 1400px) {
     body {
       overflow-x: hidden;
     }
@@ -789,7 +789,7 @@ overflow: auto;
     .footer-outer .footer-three-grid {
       width: 100%;
     }
-  }
+  }*/
   @media screen and (max-width: 1200px) {
     body {
       overflow-x: hidden;
@@ -797,11 +797,11 @@ overflow: auto;
   
     .ck-hero-inner .ck-hero-smartphone {
       position: absolute;
-      right: -15px;
+      right: -50px;
       top: 200px;
-      height: 550px;
+      height: 350px;
     }
-  }
+  }  
   @media screen and (max-width: 993px) {
     body {
       overflow-x: hidden;
@@ -822,8 +822,8 @@ overflow: auto;
       margin-left: auto;
       margin-right: auto;
       top: 270px;
-      height: 460px;
-      margin-top: 10px;
+      height: 350px;
+      margin-top: 80px;
     }
   
     .ck-advantages-outer {
