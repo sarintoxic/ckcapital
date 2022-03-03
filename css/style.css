@@ -14,7 +14,7 @@ html {
 .container-team {
   background: #fff;
   margin-top: 50px;
-  height: 400px;
+ 
 overflow: auto;
 }
 .our-team{
@@ -272,7 +272,7 @@ overflow: auto;
 .ck-slider-outer {
   width: 100%;
   height: auto;
-  padding-top: 70px;
+  padding-top: 0px;
 }
 .ck-slider-outer h1 {
 
