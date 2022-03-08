@@ -13,9 +13,9 @@ html {
 
 .container-team {
   background: #fff;
-  margin-top: 50px;
+  margin-top: 30px;
  
-overflow: auto;
+overflow-x: auto;
 }
 .our-team{
   border-radius: 15px;
@@ -790,6 +790,9 @@ overflow: auto;
       width: 100%;
     }
   }*/
+  .footer-outer .footer-three-grid {
+    width: 100%;
+  }
   @media screen and (max-width: 1200px) {
     body {
       overflow-x: hidden;
